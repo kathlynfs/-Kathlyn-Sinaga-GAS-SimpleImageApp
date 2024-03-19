@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/26488840/where-to-put-png-files-and-how-to-refer-to-them-from-imageview-in-xml-layout
+https://developer.android.com/guide/topics/resources/drawable-resource
+https://developer.android.com/reference/android/widget/ImageView#setImageDrawable(android.graphics.drawable.Drawable)
+https://en.m.wikipedia.org/wiki/File:The_Snow_Queen_by_Elena_Ringo.jpg
+https://www.deviantart.com/qinni/art/Little-Mermaid-The-Price-of-being-Human-444934596
+https://github.com/e-mission/e-mission-data-collection/issues/36
