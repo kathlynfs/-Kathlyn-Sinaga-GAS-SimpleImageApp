@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SimpleImageApp</string>
+    <string name="little_mermaid_text_desc">I know what you want. It is very stupid of you,
+        but you shall have your way, and it will bring you to sorrow, my pretty
+        princess.</string>
+    <string name="little_prince_text_desc">And now here is my secret, a very simple secret:
+        It is only with the heart that one can see rightly; what is essential is invisible
+        to the eye.</string>
+    <string name="new_image_button">New Image</string>
+    <string name="snow_queen_text_desc">At the end of all things, there was no song;
+        So the legends lived on, until all that remained
+        were the stories she must tell.</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>

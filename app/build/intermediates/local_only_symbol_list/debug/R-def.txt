@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable thelittlemermaid
+drawable thelittleprince
+drawable thesnowqueen
+id image
+id imageDescription
+id newImageButton
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string little_mermaid_text_desc
+string little_prince_text_desc
+string new_image_button
+string snow_queen_text_desc
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
