@@ -18,8 +18,7 @@
   <component name="ChangeListManager">
     <list default="true" id="54898b59-518f-4820-82d1-9bbf98357cb8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/kathl/OneDrive/Documents/School_Uni/CS-501-All/-Kathlyn-Sinaga-GAS-SimpleImageApp/app/src/main/res/drawable",
+    "last_opened_file_path": "C:/Users/kathl/OneDrive/Documents/School_Uni/CS-501-All/-Kathlyn-Sinaga-GAS-SimpleImageApp",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
