@@ -4,3 +4,4 @@ https://developer.android.com/reference/android/widget/ImageView#setImageDrawabl
 https://en.m.wikipedia.org/wiki/File:The_Snow_Queen_by_Elena_Ringo.jpg
 https://www.deviantart.com/qinni/art/Little-Mermaid-The-Price-of-being-Human-444934596
 https://github.com/e-mission/e-mission-data-collection/issues/36
+https://medium.com/@ttdevelopment/using-sharedpreferences-in-android-with-kotlin-a-beginners-guide-14db0e269434
