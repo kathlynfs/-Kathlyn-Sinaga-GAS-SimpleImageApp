@@ -80,7 +80,7 @@
         "source": "C:\\Users\\kathl\\.gradle\\daemon\\8.2\\com.example.myapplication.app-main-33:\\drawable-nodpi\\thelittleprince.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-31:/drawable-nodpi_thelittleprince.png.flat",
-        "source": "com.example.myapplication.app-main-33:/drawable-nodpi/thelittleprince.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_main.xml"
     }
 ]
